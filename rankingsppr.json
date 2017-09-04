@@ -1,0 +1,2702 @@
+{
+   "1": {
+      "Eisenberg": "D. Johnson",
+      "Richard": "D. Johnson",
+      "Cummings": "D. Johnson",
+      "Fantasy Pros": "D. Johnson",
+      "Fantasy Calculator": "D. Johnson",
+      "Football Diehards": "D. Johnson",
+      "ESPN": "D. Johnson"
+   },
+   "2": {
+      "Eisenberg": "L. Bell",
+      "Richard": "L. Bell",
+      "Cummings": "L. Bell",
+      "Fantasy Pros": "L. Bell",
+      "Fantasy Calculator": "L. Bell",
+      "Football Diehards": "L. Bell",
+      "ESPN": "L. Bell"
+   },
+   "3": {
+      "Eisenberg": "A. Brown",
+      "Richard": "A. Brown",
+      "Cummings": "J. Jones",
+      "Fantasy Pros": "A. Brown",
+      "Fantasy Calculator": "A. Brown",
+      "Football Diehards": "A. Brown",
+      "ESPN": "A. Brown"
+   },
+   "4": {
+      "Eisenberg": "J. Jones",
+      "Richard": "J. Jones",
+      "Cummings": "A. Brown",
+      "Fantasy Pros": "J. Jones",
+      "Fantasy Calculator": "O. Beckham",
+      "Football Diehards": "O. Beckham",
+      "ESPN": "O. Beckham"
+   },
+   "5": {
+      "Eisenberg": "E. Elliott",
+      "Richard": "O. Beckham",
+      "Cummings": "A. Green",
+      "Fantasy Pros": "O. Beckham",
+      "Fantasy Calculator": "L. McCoy",
+      "Football Diehards": "J. Jones",
+      "ESPN": "J. Jones"
+   },
+   "6": {
+      "Eisenberg": "O. Beckham",
+      "Richard": "M. Evans",
+      "Cummings": "O. Beckham",
+      "Fantasy Pros": "L. McCoy",
+      "Fantasy Calculator": "J. Jones",
+      "Football Diehards": "M. Evans",
+      "ESPN": "J. Nelson"
+   },
+   "7": {
+      "Eisenberg": "A. Green",
+      "Richard": "A. Green",
+      "Cummings": "M. Evans",
+      "Fantasy Pros": "A. Green",
+      "Fantasy Calculator": "M. Evans",
+      "Football Diehards": "D. Freeman",
+      "ESPN": "L. McCoy"
+   },
+   "8": {
+      "Eisenberg": "M. Evans",
+      "Richard": "M. Gordon",
+      "Cummings": "D. Freeman",
+      "Fantasy Pros": "M. Evans",
+      "Fantasy Calculator": "A. Green",
+      "Football Diehards": "A. Rodgers",
+      "ESPN": "M. Evans"
+   },
+   "9": {
+      "Eisenberg": "J. Nelson",
+      "Richard": "L. McCoy",
+      "Cummings": "J. Nelson",
+      "Fantasy Pros": "M. Gordon",
+      "Fantasy Calculator": "M. Gordon",
+      "Football Diehards": "L. McCoy",
+      "ESPN": "A. Green"
+   },
+   "10": {
+      "Eisenberg": "L. McCoy",
+      "Richard": "D. Freeman",
+      "Cummings": "D. Bryant",
+      "Fantasy Pros": "D. Freeman",
+      "Fantasy Calculator": "D. Freeman",
+      "Football Diehards": "A. Green",
+      "ESPN": "D. Freeman"
+   },
+   "11": {
+      "Eisenberg": "M. Thomas",
+      "Richard": "J. Nelson",
+      "Cummings": "A. Cooper",
+      "Fantasy Pros": "J. Nelson",
+      "Fantasy Calculator": "J. Nelson",
+      "Football Diehards": "M. Gordon",
+      "ESPN": "M. Thomas"
+   },
+   "12": {
+      "Eisenberg": "M. Gordon",
+      "Richard": "D. Murray",
+      "Cummings": "D. Baldwin",
+      "Fantasy Pros": "J. Ajayi",
+      "Fantasy Calculator": "M. Thomas",
+      "Football Diehards": "M. Thomas",
+      "ESPN": "M. Gordon"
+   },
+   "13": {
+      "Eisenberg": "D. Freeman",
+      "Richard": "J. Ajayi",
+      "Cummings": "M. Thomas",
+      "Fantasy Pros": "D. Murray",
+      "Fantasy Calculator": "J. Ajayi",
+      "Football Diehards": "J. Nelson",
+      "ESPN": "J. Howard"
+   },
+   "14": {
+      "Eisenberg": "D. Bryant",
+      "Richard": "E. Elliott",
+      "Cummings": "L. McCoy",
+      "Fantasy Pros": "M. Thomas",
+      "Fantasy Calculator": "E. Elliott",
+      "Football Diehards": "J. Howard",
+      "ESPN": "D. Murray"
+   },
+   "15": {
+      "Eisenberg": "J. Ajayi",
+      "Richard": "D. Bryant",
+      "Cummings": "R. Gronkowski",
+      "Fantasy Pros": "J. Howard",
+      "Fantasy Calculator": "D. Murray",
+      "Football Diehards": "A. Cooper",
+      "ESPN": "B. Cooks"
+   },
+   "16": {
+      "Eisenberg": "R. Gronkowski",
+      "Richard": "M. Thomas",
+      "Cummings": "B. Cooks",
+      "Fantasy Pros": "D. Baldwin",
+      "Fantasy Calculator": "J. Howard",
+      "Football Diehards": "J. Ajayi",
+      "ESPN": "D. Baldwin"
+   },
+   "17": {
+      "Eisenberg": "D. Murray",
+      "Richard": "D. Baldwin",
+      "Cummings": "D. Murray",
+      "Fantasy Pros": "D. Bryant",
+      "Fantasy Calculator": "D. Bryant",
+      "Football Diehards": "T. Gurley",
+      "ESPN": "J. Ajayi"
+   },
+   "18": {
+      "Eisenberg": "B. Cooks",
+      "Richard": "J. Howard",
+      "Cummings": "M. Gordon",
+      "Fantasy Pros": "A. Cooper",
+      "Fantasy Calculator": "B. Cooks",
+      "Football Diehards": "T. Brady",
+      "ESPN": "T. Gurley"
+   },
+   "19": {
+      "Eisenberg": "D. Baldwin",
+      "Richard": "R. Gronkowski",
+      "Cummings": "J. Ajayi",
+      "Fantasy Pros": "T. Gurley",
+      "Fantasy Calculator": "A. Cooper",
+      "Football Diehards": "R. Gronkowski",
+      "ESPN": "T. Hilton"
+   },
+   "20": {
+      "Eisenberg": "A. Cooper",
+      "Richard": "A. Cooper",
+      "Cummings": "E. Elliott",
+      "Fantasy Pros": "B. Cooks",
+      "Fantasy Calculator": "T. Gurley",
+      "Football Diehards": "D. Bryant",
+      "ESPN": "D. Bryant"
+   },
+   "21": {
+      "Eisenberg": "J. Howard",
+      "Richard": "K. Allen",
+      "Cummings": "K. Allen",
+      "Fantasy Pros": "R. Gronkowski",
+      "Fantasy Calculator": "R. Gronkowski",
+      "Football Diehards": "D. Murray",
+      "ESPN": "A. Cooper"
+   },
+   "22": {
+      "Eisenberg": "T. Gurley",
+      "Richard": "B. Cooks",
+      "Cummings": "T. Gurley",
+      "Fantasy Pros": "T. Hilton",
+      "Fantasy Calculator": "A. Rodgers",
+      "Football Diehards": "T. Hilton",
+      "ESPN": "L. Fournette"
+   },
+   "23": {
+      "Eisenberg": "T. Hilton",
+      "Richard": "D. Hopkins",
+      "Cummings": "J. Howard",
+      "Fantasy Pros": "D. Thomas",
+      "Fantasy Calculator": "D. Baldwin",
+      "Football Diehards": "B. Cooks",
+      "ESPN": "R. Gronkowski"
+   },
+   "24": {
+      "Eisenberg": "K. Allen",
+      "Richard": "D. Thomas",
+      "Cummings": "D. Thomas",
+      "Fantasy Pros": "D. Hopkins",
+      "Fantasy Calculator": "C. McCaffrey",
+      "Football Diehards": "D. Hopkins",
+      "ESPN": "D. Thomas"
+   },
+   "25": {
+      "Eisenberg": "D. Thomas",
+      "Richard": "T. Pryor",
+      "Cummings": "T. Kelce",
+      "Fantasy Pros": "E. Elliott",
+      "Fantasy Calculator": "D. Cook",
+      "Football Diehards": "D. Baldwin",
+      "ESPN": "L. Miller"
+   },
+   "26": {
+      "Eisenberg": "D. Hopkins",
+      "Richard": "I. Crowell",
+      "Cummings": "L. Miller",
+      "Fantasy Pros": "I. Crowell",
+      "Fantasy Calculator": "K. Allen",
+      "Football Diehards": "E. Elliott",
+      "ESPN": "T. Pryor"
+   },
+   "27": {
+      "Eisenberg": "T. Pryor",
+      "Richard": "T. Gurley",
+      "Cummings": "I. Crowell",
+      "Fantasy Pros": "L. Fournette",
+      "Fantasy Calculator": "T. Hilton",
+      "Football Diehards": "L. Fournette",
+      "ESPN": "A. Jeffery"
+   },
+   "28": {
+      "Eisenberg": "C. McCaffrey",
+      "Richard": "C. McCaffrey",
+      "Cummings": "T. Hilton",
+      "Fantasy Pros": "K. Allen",
+      "Fantasy Calculator": "K. Hunt",
+      "Football Diehards": "C. McCaffrey",
+      "ESPN": "D. Hopkins"
+   },
+   "29": {
+      "Eisenberg": "I. Crowell",
+      "Richard": "D. Cook",
+      "Cummings": "G. Tate",
+      "Fantasy Pros": "A. Jeffery",
+      "Fantasy Calculator": "L. Fournette",
+      "Football Diehards": "M. Ryan",
+      "ESPN": "I. Crowell"
+   },
+   "30": {
+      "Eisenberg": "K. Hunt",
+      "Richard": "K. Hunt",
+      "Cummings": "S. Diggs",
+      "Fantasy Pros": "K. Hunt",
+      "Fantasy Calculator": "T. Pryor",
+      "Football Diehards": "D. Brees",
+      "ESPN": "E. Elliott"
+   },
+   "31": {
+      "Eisenberg": "T. Kelce",
+      "Richard": "T. Kelce",
+      "Cummings": "D. Hopkins",
+      "Fantasy Pros": "T. Kelce",
+      "Fantasy Calculator": "T. Brady",
+      "Football Diehards": "L. Miller",
+      "ESPN": "M. Crabtree"
+   },
+   "32": {
+      "Eisenberg": "L. Miller",
+      "Richard": "T. Hilton",
+      "Cummings": "C. McCaffrey",
+      "Fantasy Pros": "D. Cook",
+      "Fantasy Calculator": "I. Crowell",
+      "Football Diehards": "T. Kelce",
+      "ESPN": "K. Allen"
+   },
+   "33": {
+      "Eisenberg": "A. Rodgers",
+      "Richard": "A. Rodgers",
+      "Cummings": "M. Crabtree",
+      "Fantasy Pros": "C. McCaffrey",
+      "Fantasy Calculator": "D. Hopkins",
+      "Football Diehards": "D. Thomas",
+      "ESPN": "G. Tate"
+   },
+   "34": {
+      "Eisenberg": "D. Cook",
+      "Richard": "T. Brady",
+      "Cummings": "T. Pryor",
+      "Fantasy Pros": "T. Pryor",
+      "Fantasy Calculator": "D. Thomas",
+      "Football Diehards": "I. Crowell",
+      "ESPN": "K. Hunt"
+   },
+   "35": {
+      "Eisenberg": "L. Fournette",
+      "Richard": "D. Adams",
+      "Cummings": "G. Olsen",
+      "Fantasy Pros": "L. Miller",
+      "Fantasy Calculator": "M. Lynch",
+      "Football Diehards": "K. Allen",
+      "ESPN": "C. McCaffrey"
+   },
+   "36": {
+      "Eisenberg": "T. Brady",
+      "Richard": "A. Jeffery",
+      "Cummings": "T. Montgomery",
+      "Fantasy Pros": "G. Tate",
+      "Fantasy Calculator": "L. Miller",
+      "Football Diehards": "D. Cook",
+      "ESPN": "C. Hyde"
+   },
+   "37": {
+      "Eisenberg": "G. Tate",
+      "Richard": "M. Crabtree",
+      "Cummings": "L. Fournette",
+      "Fantasy Pros": "M. Crabtree",
+      "Fantasy Calculator": "T. Montgomery",
+      "Football Diehards": "K. Hunt",
+      "ESPN": "M. Lynch"
+   },
+   "38": {
+      "Eisenberg": "J. Crowder",
+      "Richard": "C. Hyde",
+      "Cummings": "T. Brady",
+      "Fantasy Pros": "L. Fitzgerald",
+      "Fantasy Calculator": "A. Jeffery",
+      "Football Diehards": "A. Jeffery",
+      "ESPN": "L. Fitzgerald"
+   },
+   "39": {
+      "Eisenberg": "A. Jeffery",
+      "Richard": "L. Fournette",
+      "Cummings": "A. Rodgers",
+      "Fantasy Pros": "A. Robinson",
+      "Fantasy Calculator": "T. Kelce",
+      "Football Diehards": "R. Wilson",
+      "ESPN": "T. Montgomery"
+   },
+   "40": {
+      "Eisenberg": "M. Crabtree",
+      "Richard": "J. Crowder",
+      "Cummings": "L. Fitzgerald",
+      "Fantasy Pros": "A. Rodgers",
+      "Fantasy Calculator": "C. Hyde",
+      "Football Diehards": "D. Adams",
+      "ESPN": "D. Cook"
+   },
+   "41": {
+      "Eisenberg": "C. Anderson",
+      "Richard": "G. Tate",
+      "Cummings": "A. Jeffery",
+      "Fantasy Pros": "C. Hyde",
+      "Fantasy Calculator": "K. Benjamin",
+      "Football Diehards": "A. Robinson",
+      "ESPN": "J. Reed"
+   },
+   "42": {
+      "Eisenberg": "C. Hyde",
+      "Richard": "J. Reed",
+      "Cummings": "S. Watkins",
+      "Fantasy Pros": "D. Adams",
+      "Fantasy Calculator": "M. Crabtree",
+      "Football Diehards": "T. Pryor",
+      "ESPN": "D. Adams"
+   },
+   "43": {
+      "Eisenberg": "J. Reed",
+      "Richard": "G. Olsen",
+      "Cummings": "J. Crowder",
+      "Fantasy Pros": "M. Lynch",
+      "Fantasy Calculator": "J. Mixon",
+      "Football Diehards": "D. Carr",
+      "ESPN": "E. Sanders"
+   },
+   "44": {
+      "Eisenberg": "J. Mixon",
+      "Richard": "L. Miller",
+      "Cummings": "J. Reed",
+      "Fantasy Pros": "T. Brady",
+      "Fantasy Calculator": "T. Hill",
+      "Football Diehards": "M. Lynch",
+      "ESPN": "T. Brady"
+   },
+   "45": {
+      "Eisenberg": "T. Montgomery",
+      "Richard": "T. Hill",
+      "Cummings": "M. Ingram",
+      "Fantasy Pros": "T. Montgomery",
+      "Fantasy Calculator": "D. Adams",
+      "Football Diehards": "J. Mixon",
+      "ESPN": "A. Rodgers"
+   },
+   "46": {
+      "Eisenberg": "S. Diggs",
+      "Richard": "J. Mixon",
+      "Cummings": "C. Hyde",
+      "Fantasy Pros": "G. Olsen",
+      "Fantasy Calculator": "D. Brees",
+      "Football Diehards": "T. Montgomery",
+      "ESPN": "J. Landry"
+   },
+   "47": {
+      "Eisenberg": "G. Olsen",
+      "Richard": "J. Graham",
+      "Cummings": "C. Anderson",
+      "Fantasy Pros": "T. Hill",
+      "Fantasy Calculator": "G. Tate",
+      "Football Diehards": "T. Hill",
+      "ESPN": "D. Woodhead"
+   },
+   "48": {
+      "Eisenberg": "L. Fitzgerald",
+      "Richard": "D. Brees",
+      "Cummings": "D. Cook",
+      "Fantasy Pros": "J. Reed",
+      "Fantasy Calculator": "M. Bryant",
+      "Football Diehards": "J. Landry",
+      "ESPN": "T. Kelce"
+   },
+   "49": {
+      "Eisenberg": "D. Adams",
+      "Richard": "M. Bryant",
+      "Cummings": "K. Hunt",
+      "Fantasy Pros": "J. Mixon",
+      "Fantasy Calculator": "L. Fitzgerald",
+      "Football Diehards": "C. Hyde",
+      "ESPN": "J. Crowder"
+   },
+   "50": {
+      "Eisenberg": "J. Graham",
+      "Richard": "T. Montgomery",
+      "Cummings": "D. Adams",
+      "Fantasy Pros": "D. Brees",
+      "Fantasy Calculator": "C. Anderson",
+      "Football Diehards": "J. Winston",
+      "ESPN": "K. Benjamin"
+   },
+   "51": {
+      "Eisenberg": "M. Bryant",
+      "Richard": "C. Anderson",
+      "Cummings": "D. Brees",
+      "Fantasy Pros": "E. Sanders",
+      "Fantasy Calculator": "D. Martin",
+      "Football Diehards": "J. Reed",
+      "ESPN": "B. Powell"
+   },
+   "52": {
+      "Eisenberg": "W. Snead",
+      "Richard": "M. Ingram",
+      "Cummings": "A. Robinson",
+      "Fantasy Pros": "J. Landry",
+      "Fantasy Calculator": "B. Powell",
+      "Football Diehards": "M. Crabtree",
+      "ESPN": "A. Robinson"
+   },
+   "53": {
+      "Eisenberg": "S. Watkins",
+      "Richard": "S. Diggs",
+      "Cummings": "J. Landry",
+      "Fantasy Pros": "S. Diggs",
+      "Fantasy Calculator": "S. Diggs",
+      "Football Diehards": "G. Olsen",
+      "ESPN": "T. Hill"
+   },
+   "54": {
+      "Eisenberg": "D. Brees",
+      "Richard": "D. Martin",
+      "Cummings": "T. Hill",
+      "Fantasy Pros": "M. Ingram",
+      "Fantasy Calculator": "G. Olsen",
+      "Football Diehards": "C. Newton",
+      "ESPN": "J. Mixon"
+   },
+   "55": {
+      "Eisenberg": "T. Hill",
+      "Richard": "M. Lynch",
+      "Cummings": "J. Graham",
+      "Fantasy Pros": "B. Powell",
+      "Fantasy Calculator": "A. Robinson",
+      "Football Diehards": "M. Mariota",
+      "ESPN": "G. Olsen"
+   },
+   "56": {
+      "Eisenberg": "J. Landry",
+      "Richard": "S. Watkins",
+      "Cummings": "A. Abdullah",
+      "Fantasy Pros": "S. Watkins",
+      "Fantasy Calculator": "A. Abdullah",
+      "Football Diehards": "G. Tate",
+      "ESPN": "S. Watkins"
+   },
+   "57": {
+      "Eisenberg": "M. Ingram",
+      "Richard": "D. Parker",
+      "Cummings": "J. Mixon",
+      "Fantasy Pros": "J. Crowder",
+      "Fantasy Calculator": "D. Parker",
+      "Football Diehards": "S. Watkins",
+      "ESPN": "D. Brees"
+   },
+   "58": {
+      "Eisenberg": "D. Parker",
+      "Richard": "D. Woodhead",
+      "Cummings": "P. Garcon",
+      "Fantasy Pros": "J. Graham",
+      "Fantasy Calculator": "J. Reed",
+      "Football Diehards": "K. Benjamin",
+      "ESPN": "P. Garcon"
+   },
+   "59": {
+      "Eisenberg": "P. Garcon",
+      "Richard": "L. Fitzgerald",
+      "Cummings": "E. Sanders",
+      "Fantasy Pros": "M. Bryant",
+      "Fantasy Calculator": "M. Ryan",
+      "Football Diehards": "A. Luck",
+      "ESPN": "S. Diggs"
+   },
+   "60": {
+      "Eisenberg": "K. Benjamin",
+      "Richard": "B. Powell",
+      "Cummings": "Z. Ertz",
+      "Fantasy Pros": "D. Woodhead",
+      "Fantasy Calculator": "M. Ingram",
+      "Football Diehards": "S. Diggs",
+      "ESPN": "M. Ingram"
+   },
+   "61": {
+      "Eisenberg": "A. Abdullah",
+      "Richard": "A. Abdullah",
+      "Cummings": "D. Woodhead",
+      "Fantasy Pros": "K. Benjamin",
+      "Fantasy Calculator": "J. Graham",
+      "Football Diehards": "C. Anderson",
+      "ESPN": "M. Bryant"
+   },
+   "62": {
+      "Eisenberg": "D. Woodhead",
+      "Richard": "W. Snead",
+      "Cummings": "R. Wilson",
+      "Fantasy Pros": "C. Anderson",
+      "Fantasy Calculator": "D. Woodhead",
+      "Football Diehards": "K. Cousins",
+      "ESPN": "F. Gore"
+   },
+   "63": {
+      "Eisenberg": "M. Gillislee",
+      "Richard": "E. Sanders",
+      "Cummings": "K. Rudolph",
+      "Fantasy Pros": "A. Abdullah",
+      "Fantasy Calculator": "J. Landry",
+      "Football Diehards": "C. Hogan",
+      "ESPN": "B. Marshall"
+   },
+   "64": {
+      "Eisenberg": "A. Robinson",
+      "Richard": "Z. Ertz",
+      "Cummings": "D. Jackson",
+      "Fantasy Pros": "P. Garcon",
+      "Fantasy Calculator": "J. Crowder",
+      "Football Diehards": "M. Bryant",
+      "ESPN": "D. Parker"
+   },
+   "65": {
+      "Eisenberg": "E. Sanders",
+      "Richard": "K. Benjamin",
+      "Cummings": "M. Bryant",
+      "Fantasy Pros": "R. Wilson",
+      "Fantasy Calculator": "M. Gillislee",
+      "Football Diehards": "D. Prescott",
+      "ESPN": "T. Riddick"
+   },
+   "66": {
+      "Eisenberg": "B. Powell",
+      "Richard": "M. Gillislee",
+      "Cummings": "K. Benjamin",
+      "Fantasy Pros": "M. Ryan",
+      "Fantasy Calculator": "W. Snead",
+      "Football Diehards": "A. Abdullah",
+      "ESPN": "M. Gillislee"
+   },
+   "67": {
+      "Eisenberg": "M. Lynch",
+      "Richard": "P. Garcon",
+      "Cummings": "T. Williams",
+      "Fantasy Pros": "T. Coleman",
+      "Fantasy Calculator": "R. Wilson",
+      "Football Diehards": "M. Ingram",
+      "ESPN": "W. Snead"
+   },
+   "68": {
+      "Eisenberg": "D. Martin",
+      "Richard": "M. Ryan",
+      "Cummings": "T. Coleman",
+      "Fantasy Pros": "D. Parker",
+      "Fantasy Calculator": "B. Marshall",
+      "Football Diehards": "J. Graham",
+      "ESPN": "M. Ryan"
+   },
+   "69": {
+      "Eisenberg": "T. Coleman",
+      "Richard": "K. Rudolph",
+      "Cummings": "B. Powell",
+      "Fantasy Pros": "K. Rudolph",
+      "Fantasy Calculator": "D. McFadden",
+      "Football Diehards": "L. Fitzgerald",
+      "ESPN": "R. Kelley"
+   },
+   "70": {
+      "Eisenberg": "M. Mariota",
+      "Richard": "J. Landry",
+      "Cummings": "F. Gore",
+      "Fantasy Pros": "J. Maclin",
+      "Fantasy Calculator": "A. Peterson",
+      "Football Diehards": "J. Crowder",
+      "ESPN": "A. Peterson"
+   },
+   "71": {
+      "Eisenberg": "T. Williams",
+      "Richard": "T. West",
+      "Cummings": "T. Eifert",
+      "Fantasy Pros": "F. Gore",
+      "Fantasy Calculator": "P. Garcon",
+      "Football Diehards": "D. Parker",
+      "ESPN": "C. Anderson"
+   },
+   "72": {
+      "Eisenberg": "J. Brown",
+      "Richard": "A. Robinson",
+      "Cummings": "M. Wallace",
+      "Fantasy Pros": "B. Marshall",
+      "Fantasy Calculator": "S. Watkins",
+      "Football Diehards": "B. Roethlisberger",
+      "ESPN": "A. Abdullah"
+   },
+   "73": {
+      "Eisenberg": "C. Davis",
+      "Richard": "T. Williams",
+      "Cummings": "M. Mariota",
+      "Fantasy Pros": "T. Eifert",
+      "Fantasy Calculator": "T. Eifert",
+      "Football Diehards": "W. Snead",
+      "ESPN": "P. Perkins"
+   },
+   "74": {
+      "Eisenberg": "J. Maclin",
+      "Richard": "T. Eifert",
+      "Cummings": "D. Parker",
+      "Fantasy Pros": "W. Snead",
+      "Fantasy Calculator": "D. Carr",
+      "Football Diehards": "T. Coleman",
+      "ESPN": "J. Maclin"
+   },
+   "75": {
+      "Eisenberg": "F. Gore",
+      "Richard": "C. Hogan",
+      "Cummings": "J. Matthews",
+      "Fantasy Pros": "Z. Ertz",
+      "Fantasy Calculator": "E. Sanders",
+      "Football Diehards": "T. Eifert",
+      "ESPN": "E. Decker"
+   },
+   "76": {
+      "Eisenberg": "R. Kelley",
+      "Richard": "J. Brown",
+      "Cummings": "A. Thielen",
+      "Fantasy Pros": "K. Cousins",
+      "Fantasy Calculator": "T. Coleman",
+      "Football Diehards": "E. Sanders",
+      "ESPN": "D. Jackson"
+   },
+   "77": {
+      "Eisenberg": "R. Wilson",
+      "Richard": "R. Kelley",
+      "Cummings": "C. Coleman",
+      "Fantasy Pros": "T. Riddick",
+      "Fantasy Calculator": "D. Henry",
+      "Football Diehards": "B. Powell",
+      "ESPN": "T. West"
+   },
+   "78": {
+      "Eisenberg": "T. West",
+      "Richard": "D. Henry",
+      "Cummings": "P. Perkins",
+      "Fantasy Pros": "M. Gillislee",
+      "Fantasy Calculator": "R. Kelley",
+      "Football Diehards": "M. Stafford",
+      "ESPN": "D. Johnson"
+   },
+   "79": {
+      "Eisenberg": "Z. Ertz",
+      "Richard": "R. Cobb",
+      "Cummings": "D. Johnson",
+      "Fantasy Pros": "D. Johnson",
+      "Fantasy Calculator": "D. Walker",
+      "Football Diehards": "D. Martin",
+      "ESPN": "J. Graham"
+   },
+   "80": {
+      "Eisenberg": "M. Ryan",
+      "Richard": "B. Marshall",
+      "Cummings": "D. Martin",
+      "Fantasy Pros": "D. Jackson",
+      "Fantasy Calculator": "T. Riddick",
+      "Football Diehards": "J. Edelman",
+      "ESPN": "R. Wilson"
+   },
+   "81": {
+      "Eisenberg": "D. Henry",
+      "Richard": "D. Jackson",
+      "Cummings": "R. Cobb",
+      "Fantasy Pros": "M. Mariota",
+      "Fantasy Calculator": "L. Blount",
+      "Football Diehards": "Z. Ertz",
+      "ESPN": "K. Britt"
+   },
+   "82": {
+      "Eisenberg": "T. Riddick",
+      "Richard": "K. Cousins",
+      "Cummings": "J. Brown",
+      "Fantasy Pros": "T. West",
+      "Fantasy Calculator": "M. Mariota",
+      "Football Diehards": "M. Gillislee",
+      "ESPN": "M. Wallace"
+   },
+   "83": {
+      "Eisenberg": "B. Marshall",
+      "Richard": "J. Winston",
+      "Cummings": "W. Snead",
+      "Fantasy Pros": "J. Winston",
+      "Fantasy Calculator": "K. Rudolph",
+      "Football Diehards": "B. Marshall",
+      "ESPN": "D. Moncrief"
+   },
+   "84": {
+      "Eisenberg": "D. Jackson",
+      "Richard": "R. Wilson",
+      "Cummings": "T. West",
+      "Fantasy Pros": "D. Walker",
+      "Fantasy Calculator": "Z. Ertz",
+      "Football Diehards": "D. Henry",
+      "ESPN": "A. Thielen"
+   },
+   "85": {
+      "Eisenberg": "K. Rudolph",
+      "Richard": "M. Mariota",
+      "Cummings": "R. Kelley",
+      "Fantasy Pros": "D. Martin",
+      "Fantasy Calculator": "J. Maclin",
+      "Football Diehards": "A. Peterson",
+      "ESPN": "E. Lacy"
+   },
+   "86": {
+      "Eisenberg": "J. White",
+      "Richard": "H. Henry",
+      "Cummings": "M. Lynch",
+      "Fantasy Pros": "T. Williams",
+      "Fantasy Calculator": "C. Hogan",
+      "Football Diehards": "R. Cobb",
+      "ESPN": "T. Coleman"
+   },
+   "87": {
+      "Eisenberg": "D. Sproles",
+      "Richard": "P. Perkins",
+      "Cummings": "C. Davis",
+      "Fantasy Pros": "C. Newton",
+      "Fantasy Calculator": "J. Winston",
+      "Football Diehards": "P. Rivers",
+      "ESPN": "D. Walker"
+   },
+   "88": {
+      "Eisenberg": "D. Johnson",
+      "Richard": "F. Gore",
+      "Cummings": "J. Maclin",
+      "Fantasy Pros": "P. Perkins",
+      "Fantasy Calculator": "E. Decker",
+      "Football Diehards": "D. Walker",
+      "ESPN": "K. Rudolph"
+   },
+   "89": {
+      "Eisenberg": "T. Eifert",
+      "Richard": "T. Rawls",
+      "Cummings": "K. Britt",
+      "Fantasy Pros": "A. Peterson",
+      "Fantasy Calculator": "P. Perkins",
+      "Football Diehards": "K. Rudolph",
+      "ESPN": "T. Williams"
+   },
+   "90": {
+      "Eisenberg": "P. Perkins",
+      "Richard": "C. Davis",
+      "Cummings": "C. Newton",
+      "Fantasy Pros": "D. Moncrief",
+      "Fantasy Calculator": "F. Gore",
+      "Football Diehards": "D. Moncrief",
+      "ESPN": "M. Forte"
+   },
+   "91": {
+      "Eisenberg": "A. Peterson",
+      "Richard": "D. McFadden",
+      "Cummings": "M. Ryan",
+      "Fantasy Pros": "E. Decker",
+      "Fantasy Calculator": "D. Jackson",
+      "Football Diehards": "M. Bennett",
+      "ESPN": "K. Cousins"
+   },
+   "92": {
+      "Eisenberg": "T. Rawls",
+      "Richard": "T. Coleman",
+      "Cummings": "M. Gillislee",
+      "Fantasy Pros": "A. Luck",
+      "Fantasy Calculator": "K. Cousins",
+      "Football Diehards": "H. Henry",
+      "ESPN": "C. Newton"
+   },
+   "93": {
+      "Eisenberg": "E. Decker",
+      "Richard": "J. White",
+      "Cummings": "E. Ebron",
+      "Fantasy Pros": "K. Britt",
+      "Fantasy Calculator": "M. Bennett",
+      "Football Diehards": "D. Jackson",
+      "ESPN": "J. White"
+   },
+   "94": {
+      "Eisenberg": "K. Cousins",
+      "Richard": "A. Peterson",
+      "Cummings": "H. Henry",
+      "Fantasy Pros": "R. Cobb",
+      "Fantasy Calculator": "T. West",
+      "Football Diehards": "D. Woodhead",
+      "ESPN": "D. McFadden"
+   },
+   "95": {
+      "Eisenberg": "C. Hogan",
+      "Richard": "J. Maclin",
+      "Cummings": "B. Roethlisberger",
+      "Fantasy Pros": "M. Bennett",
+      "Fantasy Calculator": "C. Newton",
+      "Football Diehards": "P. Perkins",
+      "ESPN": "C. Hogan"
+   },
+   "96": {
+      "Eisenberg": "D. Moncrief",
+      "Richard": "D. Walker",
+      "Cummings": "K. Cousins",
+      "Fantasy Pros": "R. Kelley",
+      "Fantasy Calculator": "R. Cobb",
+      "Football Diehards": "E. Lacy",
+      "ESPN": "Z. Ertz"
+   },
+   "97": {
+      "Eisenberg": "C. Kupp",
+      "Richard": "M. Bennett",
+      "Cummings": "S. Shepard",
+      "Fantasy Pros": "J. White",
+      "Fantasy Calculator": "D. Johnson",
+      "Football Diehards": "P. Garcon",
+      "ESPN": "D. Martin"
+   },
+   "98": {
+      "Eisenberg": "R. Burkhead",
+      "Richard": "E. Decker",
+      "Cummings": "B. Marshall",
+      "Fantasy Pros": "A. Thielen",
+      "Fantasy Calculator": "T. Rawls",
+      "Football Diehards": "L. Blount",
+      "ESPN": "R. Cobb"
+   },
+   "99": {
+      "Eisenberg": "J. Winston",
+      "Richard": "Z. Jones",
+      "Cummings": "M. Stafford",
+      "Fantasy Pros": "D. Carr",
+      "Fantasy Calculator": "H. Henry",
+      "Football Diehards": "C. Wentz",
+      "ESPN": "R. Matthews"
+   },
+   "100": {
+      "Eisenberg": "H. Henry",
+      "Richard": "C. Kupp",
+      "Cummings": "E. Decker",
+      "Fantasy Pros": "B. Roethlisberger",
+      "Fantasy Calculator": "T. Williams",
+      "Football Diehards": "F. Gore",
+      "ESPN": "J. Stewart"
+   },
+   "101": {
+      "Eisenberg": "J. Stewart",
+      "Richard": "B. Roethlisberger",
+      "Cummings": "A. Luck",
+      "Fantasy Pros": "M. Wallace",
+      "Fantasy Calculator": "A. Luck",
+      "Football Diehards": "C. Davis",
+      "ESPN": "D. Sproles"
+   },
+   "102": {
+      "Eisenberg": "J. Williams",
+      "Richard": "A. Thielen",
+      "Cummings": "J. Winston",
+      "Fantasy Pros": "J. Matthews",
+      "Fantasy Calculator": "J. Rodgers",
+      "Football Diehards": "A. Dalton",
+      "ESPN": "A. Luck"
+   },
+   "103": {
+      "Eisenberg": "L. Blount",
+      "Richard": "T. Ginn",
+      "Cummings": "D. Sproles",
+      "Fantasy Pros": "D. Prescott",
+      "Fantasy Calculator": "M. Jones",
+      "Football Diehards": "E. Decker",
+      "ESPN": "L. Blount"
+   },
+   "104": {
+      "Eisenberg": "J. Rodgers",
+      "Richard": "K. Golladay",
+      "Cummings": "J. White",
+      "Fantasy Pros": "C. Coleman",
+      "Fantasy Calculator": "B. Roethlisberger",
+      "Football Diehards": "D. Broncos",
+      "ESPN": "T. Rawls"
+   },
+   "105": {
+      "Eisenberg": "R. Cobb",
+      "Richard": "D. Moncrief",
+      "Cummings": "T. Riddick",
+      "Fantasy Pros": "D. Henry",
+      "Fantasy Calculator": "C. Coleman",
+      "Football Diehards": "C. Coleman",
+      "ESPN": "G. Bernard"
+   },
+   "106": {
+      "Eisenberg": "C. Coleman",
+      "Richard": "J. Stewart",
+      "Cummings": "D. Walker",
+      "Fantasy Pros": "D. Sproles",
+      "Fantasy Calculator": "J. Stewart",
+      "Football Diehards": "E. Manning",
+      "ESPN": "C. Coleman"
+   },
+   "107": {
+      "Eisenberg": "B. Roethlisberger",
+      "Richard": "K. Britt",
+      "Cummings": "M. Bennett",
+      "Fantasy Pros": "E. Ebron",
+      "Fantasy Calculator": "A. Thielen",
+      "Football Diehards": "J. Maclin",
+      "ESPN": "D. Prescott"
+   },
+   "108": {
+      "Eisenberg": "R. Anderson",
+      "Richard": "D. Carr",
+      "Cummings": "J. Doyle",
+      "Fantasy Pros": "M. Stafford",
+      "Fantasy Calculator": "E. Lacy",
+      "Football Diehards": "T. Williams",
+      "ESPN": "Z. Jones"
+   },
+   "109": {
+      "Eisenberg": "D. Carr",
+      "Richard": "L. Blount",
+      "Cummings": "J. Stewart",
+      "Fantasy Pros": "H. Henry",
+      "Fantasy Calculator": "D. Moncrief",
+      "Football Diehards": "T. Riddick",
+      "ESPN": "J. Matthews"
+   },
+   "110": {
+      "Eisenberg": "D. Walker",
+      "Richard": "M. Wallace",
+      "Cummings": "D. Henry",
+      "Fantasy Pros": "J. Brown",
+      "Fantasy Calculator": "J. White",
+      "Football Diehards": "S. Seahawks",
+      "ESPN": "T. Eifert"
+   },
+   "111": {
+      "Eisenberg": "C. Newton",
+      "Richard": "J. Doyle",
+      "Cummings": "R. Anderson",
+      "Fantasy Pros": "P. Rivers",
+      "Fantasy Calculator": "R. Burkhead",
+      "Football Diehards": "R. Kelley",
+      "ESPN": "C. Prosise"
+   },
+   "112": {
+      "Eisenberg": "M. Bennett",
+      "Richard": "E. Ebron",
+      "Cummings": "D. Moncrief",
+      "Fantasy Pros": "J. Doyle",
+      "Fantasy Calculator": "J. Williams",
+      "Football Diehards": "T. West",
+      "ESPN": "J. Winston"
+   },
+   "113": {
+      "Eisenberg": "A. Luck",
+      "Richard": "D. Sproles",
+      "Cummings": "T. Rawls",
+      "Fantasy Pros": "M. Forte",
+      "Fantasy Calculator": "P. Rivers",
+      "Football Diehards": "E. Ebron",
+      "ESPN": "J. Rodgers"
+   },
+   "114": {
+      "Eisenberg": "M. Wallace",
+      "Richard": "A. Luck",
+      "Cummings": "Z. Jones",
+      "Fantasy Pros": "L. Blount",
+      "Fantasy Calculator": "J. Brown",
+      "Football Diehards": "D. Johnson",
+      "ESPN": "M. Mariota"
+   },
+   "115": {
+      "Eisenberg": "M. Forte",
+      "Richard": "D. Johnson",
+      "Cummings": "M. Forte",
+      "Fantasy Pros": "C. Hogan",
+      "Fantasy Calculator": "D. Prescott",
+      "Football Diehards": "K. Chiefs",
+      "ESPN": "D. Carr"
+   },
+   "116": {
+      "Eisenberg": "J. Charles",
+      "Richard": "T. Riddick",
+      "Cummings": "D. McFadden",
+      "Fantasy Pros": "D. McFadden",
+      "Fantasy Calculator": "D. Sproles",
+      "Football Diehards": "K. White",
+      "ESPN": "C. Davis"
+   },
+   "117": {
+      "Eisenberg": "P. Rivers",
+      "Richard": "J. Rodgers",
+      "Cummings": "M. Jones",
+      "Fantasy Pros": "C. Prosise",
+      "Fantasy Calculator": "J. Matthews",
+      "Football Diehards": "D. McFadden",
+      "ESPN": "K. White"
+   },
+   "118": {
+      "Eisenberg": "Z. Jones",
+      "Richard": "D. Washington",
+      "Cummings": "C. Hogan",
+      "Fantasy Pros": "R. Matthews",
+      "Fantasy Calculator": "Denver",
+      "Football Diehards": "J. Matthews",
+      "ESPN": "M. Stafford"
+   },
+   "119": {
+      "Eisenberg": "M. Jones",
+      "Richard": "P. Rivers",
+      "Cummings": "G. Bernard",
+      "Fantasy Pros": "M. Jones",
+      "Fantasy Calculator": "S. Perine",
+      "Football Diehards": "J. Doyle",
+      "ESPN": "J. Brown"
+   },
+   "120": {
+      "Eisenberg": "J. Doyle",
+      "Richard": "J. Williams",
+      "Cummings": "W. Smallwood",
+      "Fantasy Pros": "E. Lacy",
+      "Fantasy Calculator": "C. Davis",
+      "Football Diehards": "H. Texans",
+      "ESPN": "T. Ginn"
+   },
+   "121": {
+      "Eisenberg": "A. Thielen",
+      "Richard": "R. Anderson",
+      "Cummings": "L. Blount",
+      "Fantasy Pros": "J. Stewart",
+      "Fantasy Calculator": "E. Ebron",
+      "Football Diehards": "R. Tannehill",
+      "ESPN": "C. Thompson"
+   },
+   "122": {
+      "Eisenberg": "J. Matthews",
+      "Richard": "J. Hill",
+      "Cummings": "R. Burkhead",
+      "Fantasy Pros": "T. Ginn",
+      "Fantasy Calculator": "M. Stafford",
+      "Football Diehards": "O. Howard",
+      "ESPN": "D. Henry"
+   },
+   "123": {
+      "Eisenberg": "M. Stafford",
+      "Richard": "D. Foreman",
+      "Cummings": "T. Ginn",
+      "Fantasy Pros": "C. Davis",
+      "Fantasy Calculator": "Houston",
+      "Football Diehards": "A. Thielen",
+      "ESPN": "R. Burkhead"
+   },
+   "124": {
+      "Eisenberg": "K. Britt",
+      "Richard": "R. Burkhead",
+      "Cummings": "K. Wright",
+      "Fantasy Pros": "A. Dalton",
+      "Fantasy Calculator": "C. Kupp",
+      "Football Diehards": "T. Rawls",
+      "ESPN": "D. Amendola"
+   },
+   "125": {
+      "Eisenberg": "S. Shepard",
+      "Richard": "A. Kamara",
+      "Cummings": "K. White",
+      "Fantasy Pros": "T. Rawls",
+      "Fantasy Calculator": "C. Prosise",
+      "Football Diehards": "T. Taylor",
+      "ESPN": "H. Henry"
+   },
+   "126": {
+      "Eisenberg": "E. Ebron",
+      "Richard": "J. Charles",
+      "Cummings": "T. Gabriel",
+      "Fantasy Pros": "J. Witten",
+      "Fantasy Calculator": "Seattle",
+      "Football Diehards": "S. Perine",
+      "ESPN": "J. Doctson"
+   },
+   "127": {
+      "Eisenberg": "D. Prescott",
+      "Richard": "J. Williams",
+      "Cummings": "R. Matthews",
+      "Fantasy Pros": "E. Manning",
+      "Fantasy Calculator": "R. Matthews",
+      "Football Diehards": "C. Palmer",
+      "ESPN": "M. Bennett"
+   },
+   "128": {
+      "Eisenberg": "W. Smallwood",
+      "Richard": "M. Jones",
+      "Cummings": "J. Charles",
+      "Fantasy Pros": "K. White",
+      "Fantasy Calculator": "M. Forte",
+      "Football Diehards": "J. Brown",
+      "ESPN": "B. Roethlisberger"
+   },
+   "129": {
+      "Eisenberg": "J. Williams",
+      "Richard": "R. Matthews",
+      "Cummings": "A. Peterson",
+      "Fantasy Pros": "Z. Jones",
+      "Fantasy Calculator": "K. Britt",
+      "Football Diehards": "C. Prosise",
+      "ESPN": "De. Broncos"
+   },
+   "130": {
+      "Eisenberg": "J. Hill",
+      "Richard": "J. Nelson",
+      "Cummings": "J. Rodgers",
+      "Fantasy Pros": "R. Burkhead",
+      "Fantasy Calculator": "J. Doyle",
+      "Football Diehards": "M. Jones",
+      "ESPN": "M. Jones"
+   },
+   "131": {
+      "Eisenberg": "K. Wright",
+      "Richard": "C. Coleman",
+      "Cummings": "J. Hill",
+      "Fantasy Pros": "S. Shepard",
+      "Fantasy Calculator": "Kansas City",
+      "Football Diehards": "S. Gostkowski",
+      "ESPN": "Se. Seahawks"
+   },
+   "132": {
+      "Eisenberg": "K. Golladay",
+      "Richard": "S. Shepard",
+      "Cummings": "J. Doctson",
+      "Fantasy Pros": "C. Beasley",
+      "Fantasy Calculator": "Z. Jones",
+      "Football Diehards": "N. Patriots",
+      "ESPN": "P. Rivers"
+   },
+   "133": {
+      "Eisenberg": "K. White",
+      "Richard": "E. Lacy",
+      "Cummings": "K. Stills",
+      "Fantasy Pros": "C. Fleener",
+      "Fantasy Calculator": "J. Charles",
+      "Football Diehards": "A. Cardinals",
+      "ESPN": "J. Doyle"
+   },
+   "134": {
+      "Eisenberg": "A. Dalton",
+      "Richard": "M. Mack",
+      "Cummings": "J. Williams",
+      "Fantasy Pros": "G. Bernard",
+      "Fantasy Calculator": "M. Wallace",
+      "Football Diehards": "M. Vikings",
+      "ESPN": "Ka. Chiefs"
+   },
+   "135": {
+      "Eisenberg": "D. Washington",
+      "Richard": "E. Manning",
+      "Cummings": "E. Lacy",
+      "Fantasy Pros": "C. Palmer",
+      "Fantasy Calculator": "J. Hill",
+      "Football Diehards": "R. Matthews",
+      "ESPN": "Ho. Texans"
+   },
+   "136": {
+      "Eisenberg": "R. Matthews",
+      "Richard": "M. Breida",
+      "Cummings": "D. Lewis",
+      "Fantasy Pros": "J. Rodgers",
+      "Fantasy Calculator": "A. Dalton",
+      "Football Diehards": "J. Tucker",
+      "ESPN": "Mi. Vikings"
+   },
+   "137": {
+      "Eisenberg": "C. Carson",
+      "Richard": "C. Carson",
+      "Cummings": "J. Richard",
+      "Fantasy Pros": "C. Wentz",
+      "Fantasy Calculator": "New England",
+      "Football Diehards": "A. Hooper",
+      "ESPN": "L. Murray"
+   },
+   "138": {
+      "Eisenberg": "J. Nelson",
+      "Richard": "Broncos",
+      "Cummings": "C. Thompson",
+      "Fantasy Pros": "R. Anderson",
+      "Fantasy Calculator": "K. White",
+      "Football Diehards": "M. Forte",
+      "ESPN": "S. Vereen"
+   },
+   "139": {
+      "Eisenberg": "C. Prosise",
+      "Richard": "Seahawks",
+      "Cummings": "C. Prosise",
+      "Fantasy Pros": "A. Hooper",
+      "Fantasy Calculator": "M. Mack",
+      "Football Diehards": "M. Wallace",
+      "ESPN": "S. Shepard"
+   },
+   "140": {
+      "Eisenberg": "K. Stills",
+      "Richard": "G. Bernard",
+      "Cummings": "C. Kupp",
+      "Fantasy Pros": "Denver",
+      "Fantasy Calculator": "C. Wentz",
+      "Football Diehards": "S. Shepard",
+      "ESPN": "M. Lee"
+   },
+   "141": {
+      "Eisenberg": "C. Palmer",
+      "Richard": "T. Cohen",
+      "Cummings": "N. Agholor",
+      "Fantasy Pros": "T. Taylor",
+      "Fantasy Calculator": "A. Kamara",
+      "Football Diehards": "J. Doctson",
+      "ESPN": "J. Tucker"
+   },
+   "142": {
+      "Eisenberg": "A. Kamara",
+      "Richard": "C. Prosise",
+      "Cummings": "T. Lockett",
+      "Fantasy Pros": "S. Vereen",
+      "Fantasy Calculator": "T. Ginn",
+      "Football Diehards": "J. Flacco",
+      "ESPN": "M. Bryant"
+   },
+   "143": {
+      "Eisenberg": "C. Thompson",
+      "Richard": "D. Prescott",
+      "Cummings": "P. Richardson",
+      "Fantasy Pros": "C. Fiedorowicz",
+      "Fantasy Calculator": "C. Beasley",
+      "Football Diehards": "K. Britt",
+      "ESPN": "S. Gostkowski"
+   },
+   "144": {
+      "Eisenberg": "S. Perine",
+      "Richard": "E. Engram",
+      "Cummings": "B. Coleman",
+      "Fantasy Pros": "C. Thompson",
+      "Fantasy Calculator": "K. Golladay",
+      "Football Diehards": "B. Bortles",
+      "ESPN": "A. Vinatieri"
+   },
+   "145": {
+      "Eisenberg": "T. Ginn",
+      "Richard": "C. Wentz",
+      "Cummings": "K. Golladay",
+      "Fantasy Pros": "Seattle",
+      "Fantasy Calculator": "E. Manning",
+      "Football Diehards": "J. Stewart",
+      "ESPN": "D. Bailey"
+   },
+   "146": {
+      "Eisenberg": "E. Lacy",
+      "Richard": "J. Matthews",
+      "Cummings": "B. Perriman",
+      "Fantasy Pros": "Houston",
+      "Fantasy Calculator": "Minnesota",
+      "Football Diehards": "Z. Jones",
+      "ESPN": "C. Sims"
+   },
+   "147": {
+      "Eisenberg": "D. McFadden",
+      "Richard": "K. White",
+      "Cummings": "Broncos",
+      "Fantasy Pros": "A. Kamara",
+      "Fantasy Calculator": "Arizona",
+      "Football Diehards": "J. White",
+      "ESPN": "Ar. Cardinals"
+   },
+   "148": {
+      "Eisenberg": "G. Bernard",
+      "Richard": "K. Wright",
+      "Cummings": "Seahawks",
+      "Fantasy Pros": "T. Lockett",
+      "Fantasy Calculator": "R. Anderson",
+      "Football Diehards": "M. Williams",
+      "ESPN": "C. West"
+   },
+   "149": {
+      "Eisenberg": "L. Murray",
+      "Richard": "L. Murray",
+      "Cummings": "D. Prescott",
+      "Fantasy Pros": "C. Brate",
+      "Fantasy Calculator": "W. Smallwood",
+      "Football Diehards": "D. Watson",
+      "ESPN": "Ne. Patriots"
+   },
+   "150": {
+      "Eisenberg": "C. Wentz",
+      "Richard": "C. Thompson",
+      "Cummings": "P. Rivers",
+      "Fantasy Pros": "J. Williams",
+      "Fantasy Calculator": "A. Hooper",
+      "Football Diehards": "J. Witten",
+      "ESPN": "M. Prater"
+   },
+   "151": {
+      "Eisenberg": "C. Sims",
+      "Richard": "D. Booker",
+      "Cummings": "D. Carr",
+      "Fantasy Pros": "S. Perine",
+      "Fantasy Calculator": "D. Amendola",
+      "Football Diehards": "A. Kamara",
+      "ESPN": "A. Kamara"
+   },
+   "152": {
+      "Eisenberg": "M. Mack",
+      "Richard": "W. Smallwood",
+      "Cummings": "A. Dalton",
+      "Fantasy Pros": "Kansas City",
+      "Fantasy Calculator": "S. Shepard",
+      "Football Diehards": "C. Fleener",
+      "ESPN": "D. Hopkins"
+   },
+   "153": {
+      "Eisenberg": "D. Amendola",
+      "Richard": "O. Darkwa",
+      "Cummings": "C. Palmer",
+      "Fantasy Pros": "J. Charles",
+      "Fantasy Calculator": "New York Giants",
+      "Football Diehards": "S. Bradford",
+      "ESPN": "T. Smith"
+   },
+   "154": {
+      "Eisenberg": "D. Foreman",
+      "Richard": "S. Perine",
+      "Cummings": "E. Manning",
+      "Fantasy Pros": "J. Thomas",
+      "Fantasy Calculator": "C. Palmer",
+      "Football Diehards": "J. Cutler",
+      "ESPN": "E. Ebron"
+   },
+   "155": {
+      "Eisenberg": "D. Lewis",
+      "Richard": "Vikings",
+      "Cummings": "M. Sanu",
+      "Fantasy Pros": "J. Hill",
+      "Fantasy Calculator": "T. Gabriel",
+      "Football Diehards": "A. Smith",
+      "ESPN": "D. Foreman"
+   },
+   "156": {
+      "Eisenberg": "E. Manning",
+      "Richard": "K. Stills",
+      "Cummings": "C. Fleener",
+      "Fantasy Pros": "J. Doctson",
+      "Fantasy Calculator": "L. Murray",
+      "Football Diehards": "E. Engram",
+      "ESPN": "J. Hill"
+   },
+   "157": {
+      "Eisenberg": "J. Richard",
+      "Richard": "M. Goodwin",
+      "Cummings": "C. Beasley",
+      "Fantasy Pros": "M. Lee",
+      "Fantasy Calculator": "J. Witten",
+      "Football Diehards": "N. Giants",
+      "ESPN": "K. Stills"
+   },
+   "158": {
+      "Eisenberg": "J. Witten",
+      "Richard": "T. Smith",
+      "Cummings": "A. Hooper",
+      "Fantasy Pros": "C. Kupp",
+      "Fantasy Calculator": "J. Tucker",
+      "Football Diehards": "C. Panthers",
+      "ESPN": "A. Dalton"
+   },
+   "159": {
+      "Eisenberg": "T. Cohen",
+      "Richard": "A. Stewart",
+      "Cummings": "Z. Miller",
+      "Fantasy Pros": "K. Stills",
+      "Fantasy Calculator": "J. Williams",
+      "Football Diehards": "T. Lockett",
+      "ESPN": "T. Taylor"
+   },
+   "160": {
+      "Eisenberg": "J. Doctson",
+      "Richard": "M. Forte",
+      "Cummings": "C. Fiedorowicz",
+      "Fantasy Pros": "Minnesota",
+      "Fantasy Calculator": "O. Howard",
+      "Football Diehards": "D. Njoku",
+      "ESPN": "Ca. Panthers"
+   },
+   "161": {
+      "Eisenberg": "B. Perriman",
+      "Richard": "J. Doctson",
+      "Cummings": "C. Clay",
+      "Fantasy Pros": "Arizona",
+      "Fantasy Calculator": "G. Bernard",
+      "Football Diehards": "J. Williams",
+      "ESPN": "J. Witten"
+   },
+   "162": {
+      "Eisenberg": "J. Thomas",
+      "Richard": "M. Lee",
+      "Cummings": "J. Witten",
+      "Fantasy Pros": "A. Gates",
+      "Fantasy Calculator": "C. Carson",
+      "Football Diehards": "B. Perriman",
+      "ESPN": "M. Crosby"
+   },
+   "163": {
+      "Eisenberg": "J. Conner",
+      "Richard": "M. Stafford",
+      "Cummings": "C. Brate",
+      "Fantasy Pros": "K. Wright",
+      "Fantasy Calculator": "C. Meredith",
+      "Football Diehards": "L. Murray",
+      "ESPN": "C. Wentz"
+   },
+   "164": {
+      "Eisenberg": "M. Breida",
+      "Richard": "C. Newton",
+      "Cummings": "C. Conley",
+      "Fantasy Pros": "D. Washington",
+      "Fantasy Calculator": "Carolina",
+      "Football Diehards": "J. Thomas",
+      "ESPN": "K. Wright"
+   },
+   "165": {
+      "Eisenberg": "D. Booker",
+      "Richard": "A. Dalton",
+      "Cummings": "A. Kamara",
+      "Fantasy Pros": "L. Murray",
+      "Fantasy Calculator": "T. Taylor",
+      "Football Diehards": "M. Bryant",
+      "ESPN": "Ja. Jaguars"
+   },
+   "166": {
+      "Eisenberg": "C. West",
+      "Richard": "Texans",
+      "Cummings": "C. Carson",
+      "Fantasy Pros": "B. Perriman",
+      "Fantasy Calculator": "S. Gostkowski",
+      "Football Diehards": "J. Goff",
+      "ESPN": "Ci. Bengals"
+   },
+   "167": {
+      "Eisenberg": "T. Gabriel",
+      "Richard": "J. Richard",
+      "Cummings": "D. Washington",
+      "Fantasy Pros": "K. Golladay",
+      "Fantasy Calculator": "J. Cutler",
+      "Football Diehards": "G. Bernard",
+      "ESPN": "S. Perine"
+   },
+   "168": {
+      "Eisenberg": "C. Fleener",
+      "Richard": "T. Lockett",
+      "Cummings": "L. Murray",
+      "Fantasy Pros": "C. Sims",
+      "Fantasy Calculator": "T. Lockett",
+      "Football Diehards": "T. Ginn",
+      "ESPN": "C. Santos"
+   },
+   "169": {
+      "Eisenberg": "M. Lee",
+      "Richard": "C. Palmer",
+      "Cummings": "D. Foreman",
+      "Fantasy Pros": "New England",
+      "Fantasy Calculator": "C. Fleener",
+      "Football Diehards": "W. Fuller",
+      "ESPN": "R. Woods"
+   },
+   "170": {
+      "Eisenberg": "V. McDonald",
+      "Richard": "S. Vereen",
+      "Cummings": "J. Williams",
+      "Fantasy Pros": "E. Engram",
+      "Fantasy Calculator": "J. Doctson",
+      "Football Diehards": "D. Bailey",
+      "ESPN": "W. Smallwood"
+   },
+   "171": {
+      "Eisenberg": "C. Beasley",
+      "Richard": "J. Conner",
+      "Cummings": "S. Vereen",
+      "Fantasy Pros": "S. Gostkowski",
+      "Fantasy Calculator": "M. Sanu",
+      "Football Diehards": "J. Charles",
+      "ESPN": "A. Hooper"
+   },
+   "172": {
+      "Eisenberg": "C. Clay",
+      "Richard": "C. Samuel",
+      "Cummings": "M. Breida",
+      "Fantasy Pros": "T. Gabriel",
+      "Fantasy Calculator": "D. Foreman",
+      "Football Diehards": "D. Foreman",
+      "ESPN": "J. Williams"
+   },
+   "173": {
+      "Eisenberg": "D. Henderson",
+      "Richard": "Patriots",
+      "Cummings": "M. Mack",
+      "Fantasy Pros": "S. Bradford",
+      "Fantasy Calculator": "Pittsburgh",
+      "Football Diehards": "J. Hill",
+      "ESPN": "D. Washington"
+   },
+   "174": {
+      "Eisenberg": "C. Brate",
+      "Richard": "Chiefs",
+      "Cummings": "J. Williams",
+      "Fantasy Pros": "M. Sanu",
+      "Fantasy Calculator": "D. Lewis",
+      "Football Diehards": "T. Gabriel",
+      "ESPN": "D. Lewis"
+   },
+   "175": {
+      "Eisenberg": "T. Lockett",
+      "Richard": "Panthers",
+      "Cummings": "S. Perine",
+      "Fantasy Pros": "J. Cook",
+      "Fantasy Calculator": "J. Ross",
+      "Football Diehards": "J. Ross",
+      "ESPN": "J. Charles"
+   },
+   "176": {
+      "Eisenberg": "T. Higbee",
+      "Richard": "T. Gabriel",
+      "Cummings": "D. Henderson",
+      "Fantasy Pros": "J. Cutler",
+      "Fantasy Calculator": "D. Washington",
+      "Football Diehards": "J. Rodgers",
+      "ESPN": "C. Beasley"
+   },
+   "177": {
+      "Eisenberg": "A. Hooper",
+      "Richard": "M. Sanu",
+      "Cummings": "A. Jones",
+      "Fantasy Pros": "J. Tucker",
+      "Fantasy Calculator": "V. McDonald",
+      "Football Diehards": "A. Falcons",
+      "ESPN": "T. Lockett"
+   },
+   "178": {
+      "Eisenberg": "A. Stewart",
+      "Richard": "D. Henderson",
+      "Cummings": "A. Morris",
+      "Fantasy Pros": "M. Mack",
+      "Fantasy Calculator": "Philadelphia",
+      "Football Diehards": "D. Sproles",
+      "ESPN": "C. Kupp"
+   },
+   "179": {
+      "Eisenberg": "C. Fiedorowicz",
+      "Richard": "J. Williams",
+      "Cummings": "Patriots",
+      "Fantasy Pros": "J. Flacco",
+      "Fantasy Calculator": "J. Thomas",
+      "Football Diehards": "L. Treadwell",
+      "ESPN": "J. Richard"
+   },
+   "180": {
+      "Eisenberg": "J. Cutler",
+      "Richard": "T. Hightower",
+      "Cummings": "Cardinals",
+      "Fantasy Pros": "J. Williams",
+      "Fantasy Calculator": "C. West",
+      "Football Diehards": "R. Anderson",
+      "ESPN": "M. Sanu"
+   },
+   "181": {
+      "Eisenberg": "A. Gates",
+      "Richard": "D. Lewis",
+      "Cummings": "R. Woods",
+      "Fantasy Pros": "C. Clay",
+      "Fantasy Calculator": "K. Wright",
+      "Football Diehards": "C. Beasley",
+      "ESPN": "NY. Giants"
+   },
+   "182": {
+      "Eisenberg": "T. Taylor",
+      "Richard": "C. Fleener",
+      "Cummings": "A. Stewart",
+      "Fantasy Pros": "T. Smith",
+      "Fantasy Calculator": "S. Bradford",
+      "Football Diehards": "P. Steelers",
+      "ESPN": "J. Ross"
+   },
+   "183": {
+      "Eisenberg": "R. Turbin",
+      "Richard": "W. Gallman",
+      "Cummings": "J. Nelson",
+      "Fantasy Pros": "O. Howard",
+      "Fantasy Calculator": "M. Bryant",
+      "Football Diehards": "M. Crosby",
+      "ESPN": "C. Brate"
+   },
+   "184": {
+      "Eisenberg": "M. Goodwin",
+      "Richard": "Z. Zenner",
+      "Cummings": "M. Williams",
+      "Fantasy Pros": "D. Funchess",
+      "Fantasy Calculator": "Baltimore",
+      "Football Diehards": "C. Fiedorowicz",
+      "ESPN": "Ph. Eagles"
+   },
+   "185": {
+      "Eisenberg": "N. Agholor",
+      "Richard": "C. Sims",
+      "Cummings": "B. Watson",
+      "Fantasy Pros": "D. Foreman",
+      "Fantasy Calculator": "S. Vereen",
+      "Football Diehards": "D. Kizer",
+      "ESPN": "D. Booker"
+   },
+   "186": {
+      "Eisenberg": "E. Engram",
+      "Richard": "J. Thomas",
+      "Cummings": "V. McDonald",
+      "Fantasy Pros": "J. Nelson",
+      "Fantasy Calculator": "C. Brate",
+      "Football Diehards": "M. Mack",
+      "ESPN": "W. Lutz"
+   },
+   "187": {
+      "Eisenberg": "D. Funchess",
+      "Richard": "T. Higbee",
+      "Cummings": "T. Higbee",
+      "Fantasy Pros": "R. Woods",
+      "Fantasy Calculator": "E. Engram",
+      "Football Diehards": "C. Kupp",
+      "ESPN": "J. Conner"
+   },
+   "188": {
+      "Eisenberg": "J. Ross",
+      "Richard": "J. Strong",
+      "Cummings": "T. Boyd",
+      "Fantasy Pros": "D. Lewis",
+      "Fantasy Calculator": "J. Conner",
+      "Football Diehards": "C. Brate",
+      "ESPN": "T. Hightower"
+   },
+   "189": {
+      "Eisenberg": "M. Sanu",
+      "Richard": "D. Amendola",
+      "Cummings": "C. Sims",
+      "Fantasy Pros": "D. Bailey",
+      "Fantasy Calculator": "D. Bailey",
+      "Football Diehards": "P. Eagles",
+      "ESPN": "T. Gabriel"
+   },
+   "190": {
+      "Eisenberg": "T. Hightower",
+      "Richard": "L. Treadwell",
+      "Cummings": "C. Wentz",
+      "Fantasy Pros": "J. Ross",
+      "Fantasy Calculator": "D. Funchess",
+      "Football Diehards": "J. Smith-Schuster",
+      "ESPN": "D. Funchess"
+   },
+   "191": {
+      "Eisenberg": "O. Howard",
+      "Richard": "T. Boyd",
+      "Cummings": "T. Taylor",
+      "Fantasy Pros": "B. Bortles",
+      "Fantasy Calculator": "M. Crosby",
+      "Football Diehards": "M. Trubisky",
+      "ESPN": "E. Manning"
+   },
+   "192": {
+      "Eisenberg": "S. Vereen",
+      "Richard": "C. Brate",
+      "Cummings": "J. McKinnon",
+      "Fantasy Pros": "A. Smith",
+      "Fantasy Calculator": "K. Stills",
+      "Football Diehards": "B. Hoyer",
+      "ESPN": "N. Agholor"
+   },
+   "193": {
+      "Eisenberg": "K. Juszczyk",
+      "Richard": "B. Watson",
+      "Cummings": "M. Mitchell",
+      "Fantasy Pros": "D. Amendola",
+      "Fantasy Calculator": "D. Watson",
+      "Football Diehards": "M. Sanu",
+      "ESPN": "C. Palmer"
+   },
+   "194": {
+      "Eisenberg": "Z. Zenner",
+      "Richard": "B. Perriman",
+      "Cummings": "Texans",
+      "Fantasy Pros": "M. Bryant",
+      "Fantasy Calculator": "T. Benjamin",
+      "Football Diehards": "P. Mahomes",
+      "ESPN": "C. Boswell"
+   },
+   "195": {
+      "Eisenberg": "M. Mitchell",
+      "Richard": "M. Williams",
+      "Cummings": "Chiefs",
+      "Fantasy Pros": "N. York",
+      "Fantasy Calculator": "T. Cohen",
+      "Football Diehards": "B. Ravens",
+      "ESPN": "J. Nelson"
+   },
+   "196": {
+      "Eisenberg": "A. Seferian-Jenkins",
+      "Richard": "C. Johnson",
+      "Cummings": "Falcons",
+      "Fantasy Pros": "C. Panthers",
+      "Fantasy Calculator": "LA Rams",
+      "Football Diehards": "C. Samuel",
+      "ESPN": "J. Thomas"
+   },
+   "197": {
+      "Eisenberg": "J. McKinnon",
+      "Richard": "J. Ross",
+      "Cummings": "A. Gates",
+      "Fantasy Pros": "N. Agholor",
+      "Fantasy Calculator": "Atlanta",
+      "Football Diehards": "M. Lee",
+      "ESPN": "W. Fuller"
+   },
+   "198": {
+      "Eisenberg": "Z. Miller",
+      "Richard": "C. Beasley",
+      "Cummings": "E. Engram",
+      "Fantasy Pros": "A. Hurns",
+      "Fantasy Calculator": "T. Smith",
+      "Football Diehards": "T. Siemian",
+      "ESPN": "M. Mack"
+   },
+   "199": {
+      "Eisenberg": "M. Williams",
+      "Richard": "B. LaFell",
+      "Cummings": "O. Howard",
+      "Fantasy Pros": "M. Crosby",
+      "Fantasy Calculator": "W. Lutz",
+      "Football Diehards": "K. Golladay",
+      "ESPN": "D. Henderson"
+   },
+   "200": {
+      "Eisenberg": "K. Drake",
+      "Richard": "D. Funchess",
+      "Cummings": "D. Njoku",
+      "Fantasy Pros": "A. Seferian-Jenkins",
+      "Fantasy Calculator": "A. Smith",
+      "Football Diehards": "K. Stills",
+      "ESPN": "B. Perriman"
+   },
+   "201": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "W. Smallwood",
+      "Fantasy Calculator": "C. Thompson",
+      "Football Diehards": "J. Williams",
+      "ESPN": ""
+   },
+   "202": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "D. Njoku",
+      "Fantasy Calculator": "D. Allen",
+      "Football Diehards": "J. Cook",
+      "ESPN": ""
+   },
+   "203": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "T. Austin",
+      "Fantasy Calculator": "C. Sims",
+      "Football Diehards": "J. Williams",
+      "ESPN": ""
+   },
+   "204": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "J. Williams",
+      "Fantasy Calculator": "J. Nelson",
+      "Football Diehards": "J. Jaguars",
+      "ESPN": ""
+   },
+   "205": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "R. Turbin",
+      "Fantasy Calculator": "S. Janikowski",
+      "Football Diehards": "R. Burkhead",
+      "ESPN": ""
+   },
+   "206": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "T. Yeldon",
+      "Fantasy Calculator": "J. Cook",
+      "Football Diehards": "D. Amendola",
+      "ESPN": ""
+   },
+   "207": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "J. Richard",
+      "Fantasy Calculator": "D. Kizer",
+      "Football Diehards": "J. Garoppolo",
+      "ESPN": ""
+   },
+   "208": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "C. Conley",
+      "Fantasy Calculator": "C. Johnson",
+      "Football Diehards": "A. Vinatieri",
+      "ESPN": ""
+   },
+   "209": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "Jacksonville",
+      "Fantasy Calculator": "M. Goodwin",
+      "Football Diehards": "L. Chargers",
+      "ESPN": ""
+   },
+   "210": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "A. Vinatieri",
+      "Fantasy Calculator": "B. McManus",
+      "Football Diehards": "J. Conner",
+      "ESPN": ""
+   },
+   "211": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "P. Richardson",
+      "Fantasy Calculator": "D. Henderson",
+      "Football Diehards": "S. Janikowski",
+      "ESPN": ""
+   },
+   "212": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "L. Angeles",
+      "Fantasy Calculator": "Jacksonville",
+      "Football Diehards": "C. Bengals",
+      "ESPN": ""
+   },
+   "213": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "B. Hoyer",
+      "Fantasy Calculator": "B. Hoyer",
+      "Football Diehards": "C. Clay",
+      "ESPN": ""
+   },
+   "214": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "Z. Miller",
+      "Fantasy Calculator": "J. Flacco",
+      "Football Diehards": "L. Rams",
+      "ESPN": ""
+   },
+   "215": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "C. West",
+      "Fantasy Calculator": "Oakland",
+      "Football Diehards": "M. Mitchell",
+      "ESPN": ""
+   },
+   "216": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "M. Mitchell",
+      "Fantasy Calculator": "A. Gates",
+      "Football Diehards": "W. Lutz",
+      "ESPN": ""
+   },
+   "217": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "D. Booker",
+      "Fantasy Calculator": "Tampa Bay",
+      "Football Diehards": "M. Prater",
+      "ESPN": ""
+   },
+   "218": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "M. Prater",
+      "Fantasy Calculator": "LA Chargers",
+      "Football Diehards": "G. Packers",
+      "ESPN": ""
+   },
+   "219": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "J. Kerley",
+      "Fantasy Calculator": "Buffalo",
+      "Football Diehards": "P. Lynch",
+      "ESPN": ""
+   },
+   "220": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "W. Fuller",
+      "Fantasy Calculator": "P. Richardson",
+      "Football Diehards": "T. Buccaneers",
+      "ESPN": ""
+   },
+   "221": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "V. McDonald",
+      "Fantasy Calculator": "A. Morris",
+      "Football Diehards": "C. Thompson",
+      "ESPN": ""
+   },
+   "222": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "C. Carson",
+      "Fantasy Calculator": "J. Williams",
+      "Football Diehards": "J. Nelson",
+      "ESPN": ""
+   },
+   "223": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "A. Stewart",
+      "Fantasy Calculator": "M. Prater",
+      "Football Diehards": "A. Gates",
+      "ESPN": ""
+   },
+   "224": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "T. Hightower",
+      "Fantasy Calculator": "B. Walsh",
+      "Football Diehards": "D. Lewis",
+      "ESPN": ""
+   },
+   "225": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "M. Williams",
+      "Fantasy Calculator": "C. Santos",
+      "Football Diehards": "D. Allen",
+      "ESPN": ""
+   },
+   "226": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "D. Allen",
+      "Fantasy Calculator": "A. Vinatieri",
+      "Football Diehards": "J. James",
+      "ESPN": ""
+   },
+   "227": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "Cincinnati",
+      "Fantasy Calculator": "J. Gordon",
+      "Football Diehards": "R. Woods",
+      "ESPN": ""
+   },
+   "228": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "D. Henderson",
+      "Fantasy Calculator": "G. Gano",
+      "Football Diehards": "M. Glennon",
+      "ESPN": ""
+   },
+   "229": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "Philadelphia",
+      "Fantasy Calculator": "P. Dawson",
+      "Football Diehards": "C. Godwin",
+      "ESPN": ""
+   },
+   "230": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "D. Hopkins",
+      "Fantasy Calculator": "C. Boswell",
+      "Football Diehards": "G. Everett",
+      "ESPN": ""
+   },
+   "231": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "C. Santos",
+      "Fantasy Calculator": "D. Hopkins",
+      "Football Diehards": "D. Funchess",
+      "ESPN": ""
+   },
+   "232": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "T. Cohen",
+      "Fantasy Calculator": "",
+      "Football Diehards": "T. Austin",
+      "ESPN": ""
+   },
+   "233": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "T. Williams",
+      "Fantasy Calculator": "",
+      "Football Diehards": "A. Hurns",
+      "ESPN": ""
+   },
+   "234": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "M. Goodwin",
+      "Fantasy Calculator": "",
+      "Football Diehards": "S. Vereen",
+      "ESPN": ""
+   },
+   "235": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "J. McKinnon",
+      "Fantasy Calculator": "",
+      "Football Diehards": "C. Santos",
+      "ESPN": ""
+   },
+   "236": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "Baltimore",
+      "Fantasy Calculator": "",
+      "Football Diehards": "D. Washington",
+      "ESPN": ""
+   },
+   "237": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "K. Juszczyk",
+      "Fantasy Calculator": "",
+      "Football Diehards": "O. Raiders",
+      "ESPN": ""
+   },
+   "238": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "J. Goff",
+      "Fantasy Calculator": "",
+      "Football Diehards": "D. Hopkins",
+      "ESPN": ""
+   },
+   "239": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "J. Conner",
+      "Fantasy Calculator": "",
+      "Football Diehards": "D. Cowboys",
+      "ESPN": ""
+   },
+   "240": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "D. Watson",
+      "Fantasy Calculator": "",
+      "Football Diehards": "C. Sims",
+      "ESPN": ""
+   },
+   "241": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "J. Brown",
+      "Fantasy Calculator": "",
+      "Football Diehards": "C. Boswell",
+      "ESPN": ""
+   },
+   "242": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "B. Watson",
+      "Fantasy Calculator": "",
+      "Football Diehards": "M. Dolphins",
+      "ESPN": ""
+   },
+   "243": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "Pittsburgh",
+      "Fantasy Calculator": "",
+      "Football Diehards": "N. Jets",
+      "ESPN": ""
+   },
+   "244": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "T. Siemian",
+      "Fantasy Calculator": "",
+      "Football Diehards": "J. McNichols",
+      "ESPN": ""
+   },
+   "245": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "J. James",
+      "Fantasy Calculator": "",
+      "Football Diehards": "W. Smallwood",
+      "ESPN": ""
+   },
+   "246": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "S. Hauschka",
+      "Fantasy Calculator": "",
+      "Football Diehards": "B. McManus",
+      "ESPN": ""
+   },
+   "247": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "M. Breida",
+      "Fantasy Calculator": "",
+      "Football Diehards": "A. Shaheen",
+      "ESPN": ""
+   },
+   "248": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "W. Lutz",
+      "Fantasy Calculator": "",
+      "Football Diehards": "B. Walsh",
+      "ESPN": ""
+   },
+   "249": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "C. Samuel",
+      "Fantasy Calculator": "",
+      "Football Diehards": "B. Bills",
+      "ESPN": ""
+   },
+   "250": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "B. LaFell",
+      "Fantasy Calculator": "",
+      "Football Diehards": "T. Yeldon",
+      "ESPN": ""
+   },
+   "251": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "C. Boswell",
+      "Fantasy Calculator": "",
+      "Football Diehards": "T. Titans",
+      "ESPN": ""
+   },
+   "252": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "B. Miller",
+      "Fantasy Calculator": "",
+      "Football Diehards": "T. Boyd",
+      "ESPN": ""
+   },
+   "253": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "D. Kizer",
+      "Fantasy Calculator": "",
+      "Football Diehards": "C. Sturgis",
+      "ESPN": ""
+   },
+   "254": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "L. Treadwell",
+      "Fantasy Calculator": "",
+      "Football Diehards": "S. 49ers",
+      "ESPN": ""
+   },
+   "255": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "T. Boyd",
+      "Fantasy Calculator": "",
+      "Football Diehards": "A. Stewart",
+      "ESPN": ""
+   },
+   "256": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "A. Morris",
+      "Fantasy Calculator": "",
+      "Football Diehards": "T. Smith",
+      "ESPN": ""
+   },
+   "257": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "LA Chargers",
+      "Fantasy Calculator": "",
+      "Football Diehards": "D. Booker",
+      "ESPN": ""
+   },
+   "258": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "J. Gresham",
+      "Fantasy Calculator": "",
+      "Football Diehards": "T. Higbee",
+      "ESPN": ""
+   },
+   "259": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "T. Bay",
+      "Fantasy Calculator": "",
+      "Football Diehards": "N. Folk",
+      "ESPN": ""
+   },
+   "260": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "T. Benjamin",
+      "Fantasy Calculator": "",
+      "Football Diehards": "A. Seferian-Jenkins",
+      "ESPN": ""
+   },
+   "261": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "E. Rogers",
+      "Fantasy Calculator": "",
+      "Football Diehards": "C. Henderson",
+      "ESPN": ""
+   },
+   "262": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "T. Higbee",
+      "Fantasy Calculator": "",
+      "Football Diehards": "J. Richard",
+      "ESPN": ""
+   },
+   "263": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "M. Glennon",
+      "Fantasy Calculator": "",
+      "Football Diehards": "C. Carson",
+      "ESPN": ""
+   },
+   "264": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "M. Jones",
+      "Fantasy Calculator": "",
+      "Football Diehards": "G. Gano",
+      "ESPN": ""
+   },
+   "265": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "S. Janikowski",
+      "Fantasy Calculator": "",
+      "Football Diehards": "T. Savage",
+      "ESPN": ""
+   },
+   "266": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "Atlanta",
+      "Fantasy Calculator": "",
+      "Football Diehards": "W. Redskins",
+      "ESPN": ""
+   },
+   "267": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "B. Oliver",
+      "Fantasy Calculator": "",
+      "Football Diehards": "A. Franks",
+      "ESPN": ""
+   },
+   "268": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "A. Humphries",
+      "Fantasy Calculator": "",
+      "Football Diehards": "K. Forbath",
+      "ESPN": ""
+   },
+   "269": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "Tennessee",
+      "Fantasy Calculator": "",
+      "Football Diehards": "C. Conley",
+      "ESPN": ""
+   },
+   "270": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "D. Westbrook",
+      "Fantasy Calculator": "",
+      "Football Diehards": "T. Taylor",
+      "ESPN": ""
+   },
+   "271": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "S. Roberts",
+      "Fantasy Calculator": "",
+      "Football Diehards": "D. Lions",
+      "ESPN": ""
+   },
+   "272": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "B. Coleman",
+      "Fantasy Calculator": "",
+      "Football Diehards": "S. Hauschka",
+      "ESPN": ""
+   },
+   "273": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "J. Allen",
+      "Fantasy Calculator": "",
+      "Football Diehards": "P. Dawson",
+      "ESPN": ""
+   },
+   "274": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "G. Bay",
+      "Fantasy Calculator": "",
+      "Football Diehards": "W. Gallman",
+      "ESPN": ""
+   },
+   "275": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "G. Everett",
+      "Fantasy Calculator": "",
+      "Football Diehards": "T. Benjamin",
+      "ESPN": ""
+   },
+   "276": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "G. Gano",
+      "Fantasy Calculator": "",
+      "Football Diehards": "E. Swoope",
+      "ESPN": ""
+   },
+   "277": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "O. Darkwa",
+      "Fantasy Calculator": "",
+      "Football Diehards": "P. Richardson",
+      "ESPN": ""
+   },
+   "278": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "B. McManus",
+      "Fantasy Calculator": "",
+      "Football Diehards": "J. Butt",
+      "ESPN": ""
+   },
+   "279": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "T. Savage",
+      "Fantasy Calculator": "",
+      "Football Diehards": "C. West",
+      "ESPN": ""
+   },
+   "280": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "N. Novak",
+      "Fantasy Calculator": "",
+      "Football Diehards": "C. Williams",
+      "ESPN": ""
+   },
+   "281": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "C. Catanzaro",
+      "Fantasy Calculator": "",
+      "Football Diehards": "K. Wright",
+      "ESPN": ""
+   },
+   "282": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "Buffalo",
+      "Fantasy Calculator": "",
+      "Football Diehards": "Z. Miller",
+      "ESPN": ""
+   },
+   "283": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "C. Peake",
+      "Fantasy Calculator": "",
+      "Football Diehards": "J. McCown",
+      "ESPN": ""
+   },
+   "284": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "V. Davis",
+      "Fantasy Calculator": "",
+      "Football Diehards": "N. Agholor",
+      "ESPN": ""
+   },
+   "285": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "T. Taylor",
+      "Fantasy Calculator": "",
+      "Football Diehards": "J. Myers",
+      "ESPN": ""
+   },
+   "286": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "J. Garoppolo",
+      "Fantasy Calculator": "",
+      "Football Diehards": "C. Browns",
+      "ESPN": ""
+   },
+   "287": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "M. Wheaton",
+      "Fantasy Calculator": "",
+      "Football Diehards": "C. Kessler",
+      "ESPN": ""
+   },
+   "288": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "M. Dolphins",
+      "Fantasy Calculator": "",
+      "Football Diehards": "A. Morris",
+      "ESPN": ""
+   },
+   "289": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "M. Williams",
+      "Fantasy Calculator": "",
+      "Football Diehards": "I. Colts",
+      "ESPN": ""
+   },
+   "290": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "G. Celek",
+      "Fantasy Calculator": "",
+      "Football Diehards": "C. Bears",
+      "ESPN": ""
+   },
+   "291": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "C. Sturgis",
+      "Fantasy Calculator": "",
+      "Football Diehards": "J. Lambo",
+      "ESPN": ""
+   },
+   "292": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "Z. Zenner",
+      "Fantasy Calculator": "",
+      "Football Diehards": "R. Aguayo",
+      "ESPN": ""
+   },
+   "293": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "M. Trubisky",
+      "Fantasy Calculator": "",
+      "Football Diehards": "N. Novak",
+      "ESPN": ""
+   },
+   "294": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "N. York",
+      "Fantasy Calculator": "",
+      "Football Diehards": "D. Pitta",
+      "ESPN": ""
+   },
+   "295": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "N. Folk",
+      "Fantasy Calculator": "",
+      "Football Diehards": "J. Smith",
+      "ESPN": ""
+   },
+   "296": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "Oakland",
+      "Fantasy Calculator": "",
+      "Football Diehards": "R. Succop",
+      "ESPN": ""
+   },
+   "297": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "J. Marshall",
+      "Fantasy Calculator": "",
+      "Football Diehards": "A. Jones",
+      "ESPN": ""
+   },
+   "298": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "A. Jones",
+      "Fantasy Calculator": "",
+      "Football Diehards": "M. Goodwin",
+      "ESPN": ""
+   },
+   "299": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "W. Gallman",
+      "Fantasy Calculator": "",
+      "Football Diehards": "G. Zuerlein",
+      "ESPN": ""
+   },
+   "300": {
+      "Eisenberg": "",
+      "Richard": "",
+      "Cummings": "",
+      "Fantasy Pros": "E. Swoope",
+      "Fantasy Calculator": "",
+      "Football Diehards": "R. Turbin",
+      "ESPN": ""
+   }
+}
